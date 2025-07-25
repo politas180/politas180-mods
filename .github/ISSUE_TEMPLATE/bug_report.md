@@ -5,19 +5,26 @@ title: "[Bug] "
 labels: bug
 ---
 
-### 📋 Description
-Explain what the issue is.
+### 📋 Description  
+Explain what the issue is and what you expected to happen.
+
+---
 
 ### 💻 System Info
-- Minecraft version:
-- Mod version:
-- Forge or NeoForge version:
-- Other mods installed (if any):
+- **Mod name**:  
+- **Minecraft version**:  
+- **Mod version**:  
+- **Forge or NeoForge version**:  
+- **Other mods installed (if any)**:
+
+---
 
 ### 🔁 Steps to Reproduce
 1. ...
 2. ...
 3. ...
 
-### 📷 Media
-Screenshots or logs (paste or upload):
+---
+
+### 📷 Media  
+Screenshots, logs, or crash reports (paste or upload):
